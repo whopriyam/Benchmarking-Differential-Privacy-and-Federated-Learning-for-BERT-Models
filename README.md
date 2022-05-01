@@ -8,9 +8,9 @@ Natural Language Processing (NLP) techniques can be applied to help with the dia
 https://arxiv.org/abs/2106.13973
 
 ### Citation
-'@article{basu2021benchmarking,
+`@article{basu2021benchmarking,
   title={Benchmarking differential privacy and federated learning for bert models},
   author={Basu, Priyam and Roy, Tiasa Singha and Naidu, Rakshit and Muftuoglu, Zumrut and Singh, Sahib and Mireshghallah, Fatemehsadat},
   journal={arXiv preprint arXiv:2106.13973},
   year={2021}
-}'
+}`
